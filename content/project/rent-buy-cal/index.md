@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://www.paytonjjones.com/shiny/advanced_rent_buy_calculator/
+external_link: https://paytonjones.shinyapps.io/advanced_rent_buy_calculator/
 image:
   caption: Rent vs. Buy Calculator
   focal_point: Smart
