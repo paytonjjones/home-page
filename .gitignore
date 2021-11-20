@@ -11,3 +11,4 @@ node_modules/
 # Other
 .Rhistory
 .DS_Store
+how_to_deploy.txt
