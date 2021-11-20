@@ -12,7 +12,8 @@ image:
 projects: []
 publication: '*Psychological Trauma: Theory, Research, Practice, and Policy.* https://doi.org/10.1037/tra0001063'
 publication_short: ''
-publication_types: '2'
+publication_types:
+- "2"
 publishDate: '2021-01-01T00:00:00Z'
 summary: ''
 title: "Does broadening one\'s concept of trauma undermine resilience"

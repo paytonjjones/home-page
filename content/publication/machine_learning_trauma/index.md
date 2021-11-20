@@ -12,7 +12,8 @@ image:
 projects: []
 publication: '*Journal of Affective Disorders.* https://doi.org/10.1016/j.jad.2021.07.066'
 publication_short: ''
-publication_types: '5'
+publication_types:
+- "5"
 publishDate: '2021-01-01T00:00:00Z'
 summary: 
 title: "What's in a trauma: Using machine learning to unpack what makes an event traumatic"

@@ -13,7 +13,8 @@ image:
 projects: []
 publication: '*Memory.* https://doi.org/10.1080/09658211.2021.1892147'
 publication_short: ''
-publication_types: '2'
+publication_types:
+- "2"
 publishDate: '2021-02-12T00:00:00Z'
 summary: null
 abstract: null

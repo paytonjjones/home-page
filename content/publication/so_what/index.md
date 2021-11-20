@@ -13,7 +13,8 @@ image:
 projects: []
 publication: '*Focus.* https://doi.org/10.1176/appi.focus.20200050'
 publication_short: ''
-publication_types: '2'
+publication_types:
+- "2"
 publishDate: '2021-01-01T00:00:00Z'
 summary: null
 abstract: null
