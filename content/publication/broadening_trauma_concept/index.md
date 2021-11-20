@@ -14,7 +14,7 @@ publication: '*Psychological Trauma: Theory, Research, Practice, and Policy.* ht
 publication_short: ''
 publication_types: '2'
 publishDate: '2021-01-01T00:00:00Z'
-summary: 
+summary: ''
 title: "Does broadening one\'s concept of trauma undermine resilience"
 abstract: null
 url_code: ''
