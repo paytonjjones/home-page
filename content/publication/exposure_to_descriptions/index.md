@@ -22,11 +22,10 @@ summary: null
 title: 'Exposure to descriptions of traumatic events narrows one\'s concept of trauma'
 url_code: ""
 url_dataset: ""
-url_pdf: "publication/exposure_to_descriptions/exposure_to_descriptions.pdf"
+url_pdf: publication/exposure_to_descriptions/exposure_to_descriptions.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
