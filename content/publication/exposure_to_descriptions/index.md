@@ -19,7 +19,7 @@ publication_types:
 - "5"
 publishDate: "2022-01-13T00:00:00Z"
 summary: null
-title: 'Exposure to descriptions of traumatic events narrows one\'s concept of trauma'
+title: 'Exposure to descriptions of traumatic events narrows one''s concept of trauma'
 url_code: ""
 url_dataset: ""
 url_pdf: publication/exposure_to_descriptions/exposure_to_descriptions.pdf
