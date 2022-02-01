@@ -2,7 +2,7 @@
 title: "Self-triggering? An exploration of individuals who seek reminders of trauma"
 authors: 
 - Benjamin W. Bellet
-- Payton J. Jones
+- admin
 - Richard J. McNally
 date: '2020-06-01T00:00:00Z'
 doi: '10.1177/2167702620917459'
