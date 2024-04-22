@@ -25,7 +25,7 @@ experience:
   - title: Senior Data Scientist (Tech Lead)
     company: Moloco
     company_url: ''
-    location: Remote (Seattle, WA)
+    location: Seattle, WA
     date_start: '2024-04-01'
     date_end: ''
     description: |2-
