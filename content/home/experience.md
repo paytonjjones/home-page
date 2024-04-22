@@ -22,17 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Data Scientist (Tech Lead)
+    company: Moloco
+    company_url: ''
+    location: Remote (Seattle, WA)
+    date_start: '2024-04-01'
+    date_end: ''
+    description: |2-
+    
+        * Direct feature optimization initiatives for DSP and RMP platforms, driving revenue growth across several verticals.
+        * Streamline feature preparation processes, bolstering model performance and scalability across products.  
+        * Foster innovation through cross-functional collaboration, facilitating agile responses to market dynamics and strategic enhancements.
+
   - title: Senior Data Scientist
     company: Pluralsight
     company_url: ''
     location: Remote (Seattle, WA)
     date_start: '2020-07-15'
-    date_end: ''
+    date_end: '2024-03-31'
     description: |2-
     
-        * Work with production level deep learning systems scaled to more than 10 million users
-        * Use network science to enhance machine learning algorithms for content recommendation
-        * Develop scalable analytic solutions, synthesize results, and present to product leadership
+        * Built and scaled production-level deep learning recommenders to millions of users, handling variable request volumes with <50ms latency. 
+        * Extended personalized recommendations to 44.3% more users, boosting clickthrough rate by 25.4%. 
+        * Pioneered the implementation of a centralized A/B testing framework, communicating experiment findings to the executive suite during product reviews.
         
   - title: Data Scientist
     company: Hyka Therapeutics
@@ -42,8 +54,8 @@ experience:
     date_end: '2020-07-01'
     description: |2-
 
-        * Developed digital phenotyping & psychometric software
-        * Provided solutions for data analyses & visualizations of real-time mental health data
-        * Developed recommendation & sorting algorithms for therapeutic content deliverables
+        * Developed machine learning recommendation algorithms for therapeutic content deliverables.
+        * Implemented digital phenotyping & psychometric software.
+        * Provided solutions for data analyses & visualizations of real-time mental health data.
         
 ---
