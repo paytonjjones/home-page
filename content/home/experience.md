@@ -30,9 +30,9 @@ experience:
     date_end: ''
     description: |2-
     
-        * Direct feature optimization initiatives for DSP and RMP platforms, driving revenue growth across several verticals.
-        * Streamline feature preparation processes, bolstering model performance and scalability across products.  
-        * Foster innovation through cross-functional collaboration, facilitating agile responses to market dynamics and strategic enhancements.
+        * As Tech Lead, analyze, manage, and improve a massive ad-tech data ecosystem including internal and third-party data with billions of records.
+        * Design, lead, and analyze complex experiments for ML strategies directly impacting customers with eight-figure ad spend.
+        * Define, develop, and engineer key metrics for operational success and ads performance.
 
   - title: Senior Data Scientist
     company: Pluralsight
