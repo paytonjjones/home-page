@@ -23,19 +23,15 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/paytonjjones
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=KRBoSPoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/paytonjjones
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/paytonjones/
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=KRBoSPoAAAAJ
 superuser: true
 title: Payton Jones
 ---
