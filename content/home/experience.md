@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 70
 
 title: Experience
 subtitle:
@@ -22,12 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Staff Machine Learning Engineer
+    company: MyFitnessPal
+    company_url: ''
+    location: Seattle, WA
+    date_start: '2025-06-23'
+    date_end: ''
+    description: |2-
+    
+        * Create machine learning solutions for personalization on the home page, meal scan, and voice logging features 
+        * Engineer new AI features leveraging state-of-the-art multimodal LLMs
+        * Mentor team members and improve the maturity, reliability, and scalability of machine learning capabilities
+        
   - title: Senior Data Scientist (Tech Lead)
     company: Moloco
     company_url: ''
     location: Seattle, WA
     date_start: '2024-04-01'
-    date_end: ''
+    date_end: '2025-06-21'
     description: |2-
     
         * As Tech Lead, analyze, manage, and improve a massive ad-tech data ecosystem including internal and third-party data with billions of records.

@@ -9,14 +9,14 @@ education:
     institution: Brigham Young University
     year: 2016
 interests:
-- Data Science
 - Machine Learning
 - Research
+- Data Science
 email: ""
 highlight_name: false
 organizations:
-- name: Moloco
-role: Senior Data Scientist (Tech Lead)
+- name: MyFitnessPal
+role: Staff Machine Learning Engineer
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,4 +40,4 @@ superuser: true
 title: Payton Jones
 ---
 
-Payton is a Senior Data Scientist (Tech Lead) at Moloco. He graduated with a Ph.D. in Experimental Psychopathology from Harvard University. 
+Payton is a Staff Machine Learning Engineer at MyFitnessPal. He has 6+ years of ML experience across health technology, edtech, and adtech. He graduated with a Ph.D. in Experimental Psychopathology from Harvard University. 
